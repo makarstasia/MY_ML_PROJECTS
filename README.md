@@ -1,8 +1,17 @@
 # MY_PROJECTS
-Проекты, которые я реализовала в Data Science.
 
+Проекты, которые я реализовала в области **Data Science**.
 
-- [x] [Анализ токсичных комментариев TRUE CRIME с YouTube](https://github.com/makarstasia/TRUE_CRIME_COMMENTS)  
-       В рамках проекта была отубликована статья на Хабр : [Анализ негативных комментариев TRUE CRIME](https://habr.com/ru/articles/830100/)
-- [x] [ ИИ Сервис для постановки диагноза пласкостопия](https://github.com/makarstasia/MY_PROJECTS/blob/main/PESPLANUS/PESPLANUS.md)
-      
+### Проекты:
+
+- [x] **[Анализ токсичных комментариев TRUE CRIME с YouTube](https://github.com/makarstasia/TRUE_CRIME_COMMENTS)**  
+  В рамках этого проекта была опубликована статья на Хабр:  
+  [Анализ негативных комментариев TRUE CRIME](https://habr.com/ru/articles/830100/)
+
+- [x] **[ИИ Сервис для постановки диагноза плоскостопия](https://github.com/makarstasia/MY_PROJECTS/blob/main/PESPLANUS/PESPLANUS.md)**  
+  Проект, включающий разработку модели для диагностики плоскостопия по рентгеновским снимкам, использующий методы сегментации и глубокого обучения.
+
+### Классическое машинное обучение (ML):
+
+- [x] **[k-NN (k-ближайших соседей)](https://github.com/makarstasia/K-means)**  
+  Реализация алгоритма k-NN для классификации и кластеризации данных.
