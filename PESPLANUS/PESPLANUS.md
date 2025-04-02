@@ -43,6 +43,14 @@
 3. **Интеграция**  
    - Для интеграции сервиса с паксом был создан ERIS клиент.
     🔗 [КОД](https://github.com/makarstasia/eris_v4.0_flat_feet)
-  
+
+
+**Визуальное представление сервиса:**
+
+![Обработка поперечного плоскостопия](https://raw.githubusercontent.com/makarstasia/MY_PROJECTS/main/PESPLANUS/1.png)
+
+![Обработка продольного плоскостопия](https://raw.githubusercontent.com/makarstasia/MY_PROJECTS/main/PESPLANUS/2.png)
+
+![Обработка продольного плоскостопия](https://raw.githubusercontent.com/makarstasia/MY_PROJECTS/main/PESPLANUS/3.png)
    
 
